@@ -1,0 +1,21 @@
+.projectMainClass {
+  background-image: url("../assets/img/descriptionImage.jpg");
+  color: rgb(39, 36, 36);;
+}
+
+.descriptionTitle {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.descriptionSubTitle {
+  font-size: 22px;
+}
+
+.underFirstNumber {
+    display: block;
+    width: 80px;
+    height: 3px;
+    background: #f1cd8f;
+    margin: 20px auto;
+}

@@ -1,0 +1,17 @@
+.contactTitle {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.contactElements {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.contactForm {
+    margin: 0 50px 0 50px;
+}
+
+.contactButton {
+    margin: 30px 0 60px 0;
+}

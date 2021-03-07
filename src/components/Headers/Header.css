@@ -1,0 +1,22 @@
+.headerContent {
+    background-image: url("../assets/img/headerImage.jpg");
+    padding: 90px 15px 50px 15px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.homeTitle {
+    color: #fff;
+    font-weight: 450;
+}
+
+.headerSubText {
+    font-size: 23px;
+}
+
+.headerButton {
+    padding: 20px;
+    font-size: 20px;
+}

@@ -1,0 +1,34 @@
+
+.aboutTitle {
+    font-size: 55px;
+    font-weight: 600;
+}
+
+.aboutSubTitle {
+    font-size: 18px;
+}
+
+.aboutListGroup {
+    font-size: 17px;
+}
+
+.aboutContainer {
+    padding-top: 50px;
+}
+
+.aboutElement {
+    margin-top: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.abutMainCard {
+    height: auto;
+    background-color: rgba(192, 233, 250, 0.829);
+    border: none;
+    border-radius: 30px;
+}
+
+.aboutIcon {
+    margin: 10px 0 10px 0;
+}

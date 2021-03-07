@@ -1,0 +1,25 @@
+.serviceMain {
+    margin: 70px 0 70px 0;
+}
+
+li.list-group-item {
+    border:none;
+}
+
+.serviceElement {
+    margin: 10px 0 10px 0;
+    background: #072f4c00;
+    color: #fff;
+}
+
+.serviceColor1 {
+    background: #072f4c;
+}
+
+.serviceColor2 {
+    background: #094978;
+}
+
+.serviceColor3 {
+    background: #637483;
+}
